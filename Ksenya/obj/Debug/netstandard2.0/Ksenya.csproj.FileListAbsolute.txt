@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Степан\Projects\KseniyaApp\Ksenya\Ksenya\obj\Debug\netstandard2.0\Ksenya.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Степан\Projects\KseniyaApp\Ksenya\Ksenya\obj\Debug\netstandard2.0\Ksenya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Степан\Projects\KseniyaApp\Ksenya\Ksenya\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\Desktop\Степан\Projects\KseniyaApp\Ksenya\Ksenya\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\Desktop\Степан\Projects\KseniyaApp\Ksenya\Ksenya\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\User\Desktop\Степан\Projects\KseniyaApp\Ksenya\Ksenya\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\User\Desktop\Степан\Projects\KseniyaApp\Ksenya\Ksenya\obj\Debug\netstandard2.0\Ksenya.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Степан\Projects\KseniyaApp\Ksenya\Ksenya\obj\Debug\netstandard2.0\Ksenya.AssemblyInfo.cs
+C:\Users\User\Desktop\Степан\Projects\KseniyaApp\Ksenya\Ksenya\obj\Debug\netstandard2.0\Ksenya.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Степан\Projects\KseniyaApp\Ksenya\Ksenya\bin\Debug\netstandard2.0\Ksenya.deps.json
+C:\Users\User\Desktop\Степан\Projects\KseniyaApp\Ksenya\Ksenya\bin\Debug\netstandard2.0\Ksenya.dll
+C:\Users\User\Desktop\Степан\Projects\KseniyaApp\Ksenya\Ksenya\bin\Debug\netstandard2.0\Ksenya.pdb
+C:\Users\User\Desktop\Степан\Projects\KseniyaApp\Ksenya\Ksenya\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\Desktop\Степан\Projects\KseniyaApp\Ksenya\Ksenya\obj\Debug\netstandard2.0\Ksenya.dll
+C:\Users\User\Desktop\Степан\Projects\KseniyaApp\Ksenya\Ksenya\obj\Debug\netstandard2.0\refint\Ksenya.dll
+C:\Users\User\Desktop\Степан\Projects\KseniyaApp\Ksenya\Ksenya\obj\Debug\netstandard2.0\Ksenya.pdb
+C:\Users\User\Desktop\Степан\Projects\KseniyaApp\Ksenya\Ksenya\obj\Debug\netstandard2.0\ref\Ksenya.dll
