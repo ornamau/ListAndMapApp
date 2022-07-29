@@ -2,23 +2,5 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Ksenya.Page2">
-    <ScrollView>
-        <StackLayout Spacing="2">
-            <Button Text="39-16"></Button>
-            <Button Text="39-17"></Button>
-            <Button Text="39-18"></Button>
-            <Button Text="39-19"></Button>
-            <Button Text="39-20"></Button>
-            <Button Text="39-21"></Button>
-            <Button Text="39-22"></Button>
-            <Button Text="39-23"></Button>
-            <Button Text="39-24"></Button>
-            <Button Text="39-25"></Button>
-            <Button Text="39-26"></Button>
-            <Button Text="39-27"></Button>
-            <Button Text="39-28"></Button>
-            <Button Text="39-29"></Button>
-            <Button Text="39-30"></Button>
-        </StackLayout>
-    </ScrollView>
+    
 </ContentPage>

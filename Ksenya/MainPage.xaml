@@ -5,6 +5,7 @@
        xmlns:local="clr-namespace:Ksenya">
     
     <FlyoutItem Shell.TabBarIsVisible="False" 
+                x:Name="fly"
                 FlyoutDisplayOptions="AsMultipleItems">
         <ShellContent Title="Карта" ContentTemplate="{DataTemplate local:Page1}" />
         <ShellContent Title="Список участков" ContentTemplate="{DataTemplate local:Page2}" />

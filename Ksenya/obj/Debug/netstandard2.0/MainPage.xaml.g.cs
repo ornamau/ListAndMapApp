@@ -17,8 +17,12 @@ namespace Ksenya {
     public partial class MainPage : global::Xamarin.Forms.Shell {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
+        private global::Xamarin.Forms.FlyoutItem fly;
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(MainPage));
+            fly = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.FlyoutItem>(this, "fly");
         }
     }
 }
