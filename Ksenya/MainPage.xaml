@@ -9,5 +9,9 @@
                 FlyoutDisplayOptions="AsMultipleItems">
         <ShellContent Title="Карта" ContentTemplate="{DataTemplate local:Page1}" />
         <ShellContent Title="Список участков" ContentTemplate="{DataTemplate local:Page2}" />
+        <ShellContent Title="Общая информация" ContentTemplate="{DataTemplate local:RegularInfo}" />
+        <ShellContent Title="Депутаты" ContentTemplate="{DataTemplate local:Page2}" />
+        <ShellContent Title="Голосую первый раз" ContentTemplate="{DataTemplate local:Page2}" />
+        <ShellContent Title="Заметил правонарушение" ContentTemplate="{DataTemplate local:Page2}" />
     </FlyoutItem>
 </Shell>
