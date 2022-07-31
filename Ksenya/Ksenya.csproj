@@ -11,6 +11,20 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="3030.jpg" />
+    <None Remove="3916.jpg" />
+    <None Remove="3917.jpg" />
+    <None Remove="3918.jpg" />
+    <None Remove="3919.jpg" />
+    <None Remove="3920.jpg" />
+    <None Remove="3922.jpg" />
+    <None Remove="3923.jpg" />
+    <None Remove="3924.jpg" />
+    <None Remove="3925.jpg" />
+    <None Remove="3926.jpg" />
+    <None Remove="3927.jpg" />
+    <None Remove="3928.jpg" />
+    <None Remove="3929.jpg" />
     <None Remove="baza.jpg" />
     <None Remove="BorohovAlex.jpg" />
     <None Remove="GosyanAnait.jpg" />
@@ -18,6 +32,20 @@
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Include="3030.jpg" />
+    <EmbeddedResource Include="3916.jpg" />
+    <EmbeddedResource Include="3917.jpg" />
+    <EmbeddedResource Include="3918.jpg" />
+    <EmbeddedResource Include="3919.jpg" />
+    <EmbeddedResource Include="3920.jpg" />
+    <EmbeddedResource Include="3922.jpg" />
+    <EmbeddedResource Include="3923.jpg" />
+    <EmbeddedResource Include="3924.jpg" />
+    <EmbeddedResource Include="3925.jpg" />
+    <EmbeddedResource Include="3926.jpg" />
+    <EmbeddedResource Include="3927.jpg" />
+    <EmbeddedResource Include="3928.jpg" />
+    <EmbeddedResource Include="3929.jpg" />
     <EmbeddedResource Include="baza.jpg" />
     <EmbeddedResource Include="BorohovAlex.jpg" />
     <EmbeddedResource Include="GosyanAnait.jpg" />
@@ -62,6 +90,12 @@
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="UchastokTemplate.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="VoteForFirstTime.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Warning.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
   </ItemGroup>

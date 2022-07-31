@@ -11,7 +11,7 @@
         <ShellContent Title="Список участков" ContentTemplate="{DataTemplate local:Page2}" />
         <ShellContent Title="Общая информация" ContentTemplate="{DataTemplate local:RegularInfo}" />
         <ShellContent Title="Депутаты" ContentTemplate="{DataTemplate local:Deputats}" />
-        <ShellContent Title="Голосую первый раз" ContentTemplate="{DataTemplate local:Page2}" />
-        <ShellContent Title="Заметил правонарушение" ContentTemplate="{DataTemplate local:Page2}" />
+        <ShellContent Title="Голосую первый раз" ContentTemplate="{DataTemplate local:VoteForFirstTime}" />
+        <ShellContent Title="Заметил правонарушение" ContentTemplate="{DataTemplate local:Warning}" />
     </FlyoutItem>
 </Shell>

@@ -24,3 +24,5 @@ C:\Users\User\Desktop\Степан\Projects\KseniyaApp\Ksenya\Ksenya\obj\Debug\n
 C:\Users\User\Desktop\Степан\Projects\KseniyaApp\Ksenya\Ksenya\obj\Debug\netstandard2.0\PredsedPage.xaml.g.cs
 C:\Users\User\Desktop\Степан\Projects\KseniyaApp\Ksenya\Ksenya\obj\Debug\netstandard2.0\SostavPage.xaml.g.cs
 C:\Users\User\Desktop\Степан\Projects\KseniyaApp\Ksenya\Ksenya\obj\Debug\netstandard2.0\Deputats.xaml.g.cs
+C:\Users\User\Desktop\Степан\Projects\KseniyaApp\Ksenya\Ksenya\obj\Debug\netstandard2.0\VoteForFirstTime.xaml.g.cs
+C:\Users\User\Desktop\Степан\Projects\KseniyaApp\Ksenya\Ksenya\obj\Debug\netstandard2.0\Warning.xaml.g.cs
