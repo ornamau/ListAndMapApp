@@ -17,3 +17,10 @@ C:\Users\User\Desktop\Степан\Projects\KseniyaApp\Ksenya\Ksenya\obj\Debug\n
 C:\Users\User\Desktop\Степан\Projects\KseniyaApp\Ksenya\Ksenya\obj\Debug\netstandard2.0\ref\Ksenya.dll
 C:\Users\User\Desktop\Степан\Projects\KseniyaApp\Ksenya\Ksenya\obj\Debug\netstandard2.0\UchastokTemplate.xaml.g.cs
 C:\Users\User\Desktop\Степан\Projects\KseniyaApp\Ksenya\Ksenya\obj\Debug\netstandard2.0\RegularInfo.xaml.g.cs
+C:\Users\User\Desktop\Степан\Projects\KseniyaApp\Ksenya\Ksenya\obj\Debug\netstandard2.0\HistoryPage.xaml.g.cs
+C:\Users\User\Desktop\Степан\Projects\KseniyaApp\Ksenya\Ksenya\obj\Debug\netstandard2.0\RegularInfoPage.xaml.g.cs
+C:\Users\User\Desktop\Степан\Projects\KseniyaApp\Ksenya\Ksenya\obj\Debug\netstandard2.0\ChangesPage.xaml.g.cs
+C:\Users\User\Desktop\Степан\Projects\KseniyaApp\Ksenya\Ksenya\obj\Debug\netstandard2.0\ComitetPage.xaml.g.cs
+C:\Users\User\Desktop\Степан\Projects\KseniyaApp\Ksenya\Ksenya\obj\Debug\netstandard2.0\PredsedPage.xaml.g.cs
+C:\Users\User\Desktop\Степан\Projects\KseniyaApp\Ksenya\Ksenya\obj\Debug\netstandard2.0\SostavPage.xaml.g.cs
+C:\Users\User\Desktop\Степан\Projects\KseniyaApp\Ksenya\Ksenya\obj\Debug\netstandard2.0\Deputats.xaml.g.cs

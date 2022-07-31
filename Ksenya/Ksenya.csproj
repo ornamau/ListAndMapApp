@@ -12,10 +12,16 @@
 
   <ItemGroup>
     <None Remove="baza.jpg" />
+    <None Remove="BorohovAlex.jpg" />
+    <None Remove="GosyanAnait.jpg" />
+    <None Remove="Tolstopyatov.jpg" />
   </ItemGroup>
 
   <ItemGroup>
     <EmbeddedResource Include="baza.jpg" />
+    <EmbeddedResource Include="BorohovAlex.jpg" />
+    <EmbeddedResource Include="GosyanAnait.jpg" />
+    <EmbeddedResource Include="Tolstopyatov.jpg" />
   </ItemGroup>
 
   <ItemGroup>
@@ -25,13 +31,34 @@
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Update="ChangesPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="ComitetPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Deputats.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="HistoryPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
     <EmbeddedResource Update="Page1.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Page2.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+    <EmbeddedResource Update="PredsedPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
     <EmbeddedResource Update="RegularInfo.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="RegularInfoPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="SostavPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="UchastokTemplate.xaml">
